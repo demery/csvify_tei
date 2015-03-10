@@ -66,6 +66,14 @@ xpaths = {
           record:      "//tei:altIdentifier[@type='resource']/tei:idno",
          }
 
+def check_blank s
+  if s.nil? || s.strip.size == 0 
+    "Not Noted"
+  else
+    s.strip
+  end
+end
+
 # create a new csv file
 CSV.open "output.csv", "wb" do |csv|
   # add the header row
@@ -94,14 +102,14 @@ CSV.open "output.csv", "wb" do |csv|
     row << "#{data_hash[:instituion]} #{data_hash[:callNo]}"
 
     # language
-    lang =  data_hash[:lang]
-    if lang.nil? || lang.size == 0
-      lang = 'None noted'
-    end
-    row << lang
+    row << check_blank(data_hash[:lang])
 
     # "Origin"
+    row << check_blank(data_hash[:origin])
+
     # "Date"
+    row << check_blank(data_hash[:date])
+
     # "Place"
     # "Subject"
     # "Genre"
