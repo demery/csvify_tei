@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <!--[if IE 8]>
+    <meta http-equiv="X-UA-Compatible" content="IE=7" />
+    <![endif]-->
+    <meta name="keywords" content="" />
+    <meta name="description" content="With more than 900 illuminated manuscripts, 1,250 of the first printed books (ca. 1455 - 1500), and an important collection of post-1500 deluxe editions, this extraordinary collection chronicles the art of the book over more than 1,000 years. The collection is from all over the world, and from ancient to modern times. It features deluxe Gospel books from Armenia, Ethiopia, Byzantium, and Ottonian Germany, French and Flemish books of hours, as well as masterpieces of Safavid, Mughal and Ottoman manuscript illumination. It also includes important first printed editions of ancient texts by great thinkers such as Aristotle and Euclid, diaries written by Napoleon and intricate bindings crafted by Tiffany. The early printed book collection highlights the experimental nature of the first attempts at printing. Some of these books have been illuminated by hand, and many are unique objects.&amp;nbsp;" />
+    
+    <title>The Digital Walters</title>
+    
+    <link rel="shortcut icon" href="http://art.thewalters.org/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="http://art.thewalters.org/css/app.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="http://art.thewalters.org/css/print.css" type="text/css" media="print" />
+    
+    <link rel="alternate" type="application/rss+xml" title="Artwork of the Day RSS Feed" href="http://art.thewalters.org/feed/" />
+    
+    <script src="http://art.thewalters.org/js/app.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js"></script>
+    
+    <!--[if IE]>
+    <script src="http://art.thewalters.org/js/html5.js"></script>
+    <![endif]-->
+    <!--[if IE 6]>
+    <link rel="stylesheet" href="http://art.thewalters.org/css/ie6.css" type="text/css" media="all" />
+    <script src="http://www.fastspot.com/_ie/c.js"></script>
+    <![endif]-->
+    
+    <noscript>
+      <link rel="stylesheet" href="http://art.thewalters.org/css/no-script.css" type="text/css" media="all" />
+    </noscript>
+    <link rel="stylesheet" href="/html/custom.css" type="text/css" media="screen" />
+  </head>
+  <body>
+    <header id="tray">
+      <div class="shadow">
+	<div class="bar dark">
+	  <div class="container">
+	    <a href="http://www.thewalters.org/" class="logo left no_select" target="_blank">The Walters Art Museum</a>
+	    <div class="jumper right">
+	      <div class="browse_options left user fb_show" style="display: none;">
+		<a href="http://art.thewalters.org/browse/?type=community&filter=me" class="button browse my no_select">My Collections</a>
+		<nav>
+		  <div class="contain">
+		    <a href="http://art.thewalters.org/user/edit/">Collection Editor</a>
+		  </div>
+		</nav>
+	      </div>
+	      <div class="browse_options left">
+		<a href="http://art.thewalters.org/browse/" class="button browse no_select">Browse Collection</a>
+		<nav>
+		  <div class="contain">
+		    <a href="http://art.thewalters.org/browse/?type=category">Categories</a>
+		    <a href="http://art.thewalters.org/browse/?type=creator">Creators</a>
+		    <a href="http://art.thewalters.org/browse/?type=date">Dates</a>
+		    <a href="http://art.thewalters.org/browse/?type=medium">Medium</a>
+		    <a href="http://art.thewalters.org/browse/?type=location">Museum Locations</a>
+		    <a href="http://art.thewalters.org/browse/?type=places">Places</a>
+		    <a href="http://art.thewalters.org/browse/?type=community">Community</a>
+		    <a href="http://art.thewalters.org/browse/?type=tags">Tags</a>
+		  </div>
+		</nav>
+	      </div>
+	      <form action="http://art.thewalters.org/search/" method="get" class="left">
+		<a href="http://art.thewalters.org/search/" class="no_select">Advanced Search</a>
+		<input type="text" autocomplete="off" id="search_term" name="query" class="text" />
+		<input type="hidden" name="type" value="search" />
+		<input type="hidden" name="all_fields" value="true" />
+		<input type="submit" value="Search" class="button" />
+	      </form>
+	    </div>
+	  </div>
+	</div>
+	<div class="bar light contain no_select">
+	  <div class="container">
+	    <nav>
+	      <a href="http://art.thewalters.org/" class="home">Works of Art</a>
+	      <a href="http://thewalters.org/about/">About</a>
+	      <a href="http://thewalters.org/visit/">Visit</a>
+	      <a href="http://thewalters.org/exhibitions/">Exhibitions</a>
+	      <a href="http://thewalters.org/eventscalendar/">Events</a>
+	      <a href="http://thewalters.org/giving/">Giving</a>
+	      <a href="http://thewalters.org/store/">Store</a>
+	      <a href="http://thewalters.org/research/">Research</a>
+	      <a href="http://thewalters.org/news/">Press</a>
+	    </nav>
+	  </div>
+	</div>
+      </div>
+    </header>
+    <div id="wrapper" class="container">
+      <div id="content" class="container browse">
+	<header class="no_select">
+	  <a href="http://art.thewalters.org/browse/?type=category" class="breadcrumb">&lsaquo; The Walters Art Museum</a>
+	  <br class="clear" />
+	  <h1>The Digital Walters</h1>
+	</header>
+	<hr />
+	<section class="intro contain">
+	  <div class="description left contain thin">
+<pre><img src="/icons/blank.gif" alt="Icon "> <a href="?C=N;O=A">Name</a>                      <a href="?C=M;O=D">Last modified</a>      <a href="?C=S;O=A">Size</a>  <a href="?C=D;O=A">Description</a><hr><img src="/icons/back.gif" alt="[DIR]"> <a href="/Data/WaltersManuscripts/">Parent Directory</a>                               -   
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W4_tei.xml">W4_tei.xml</a>                28-Jun-2013 05:12  171K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W7_tei.xml">W7_tei.xml</a>                28-Jun-2013 05:13  161K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W8_tei.xml">W8_tei.xml</a>                28-Jun-2013 05:13   37K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W12_tei.xml">W12_tei.xml</a>               28-Jun-2013 05:14  110K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W13_tei.xml">W13_tei.xml</a>               28-Jun-2013 05:14   73K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W18_tei.xml">W18_tei.xml</a>               28-Jun-2013 05:15  205K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W23_tei.xml">W23_tei.xml</a>               28-Jun-2013 05:15   30K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W26_tei.xml">W26_tei.xml</a>               28-Jun-2013 05:15  160K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W30_tei.xml">W30_tei.xml</a>               28-Jun-2013 05:15   69K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W41_tei.xml">W41_tei.xml</a>               28-Jun-2013 05:17  255K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W69_tei.xml">W69_tei.xml</a>               28-Jun-2013 05:18  152K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W71_tei.xml">W71_tei.xml</a>               28-Jun-2013 05:18  122K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W72_tei.xml">W72_tei.xml</a>               28-Jun-2013 05:19  112K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W78_tei.xml">W78_tei.xml</a>               28-Jun-2013 05:19  172K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W102_tei.xml">W102_tei.xml</a>              28-Jun-2013 05:20  119K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W106_tei.xml">W106_tei.xml</a>              28-Jun-2013 05:20   88K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W165_tei.xml">W165_tei.xml</a>              28-Jun-2013 05:22  139K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W168_tei.xml">W168_tei.xml</a>              28-Jun-2013 05:22  193K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W171_tei.xml">W171_tei.xml</a>              28-Jun-2013 05:22  184K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W185_tei.xml">W185_tei.xml</a>              28-Jun-2013 05:24  219K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W188_tei.xml">W188_tei.xml</a>              28-Jun-2013 05:24  195K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W526_tei.xml">W526_tei.xml</a>              28-Jun-2013 05:30  255K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W527_tei.xml">W527_tei.xml</a>              28-Jun-2013 05:30  148K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W535_tei.xml">W535_tei.xml</a>              28-Jun-2013 05:32  324K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W536_tei.xml">W536_tei.xml</a>              28-Jun-2013 05:33  125K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W552_tei.xml">W552_tei.xml</a>              28-Jun-2013 05:37   76K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W553_tei.xml">W553_tei.xml</a>              28-Jun-2013 05:37   43K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W554_tei.xml">W554_tei.xml</a>              28-Jun-2013 05:37   82K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W555_tei.xml">W555_tei.xml</a>              28-Jun-2013 05:38   84K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W556_tei.xml">W556_tei.xml</a>              28-Jun-2013 05:38  119K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W557_tei.xml">W557_tei.xml</a>              28-Jun-2013 05:38  223K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W559_tei.xml">W559_tei.xml</a>              28-Jun-2013 05:39  294K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W561_tei.xml">W561_tei.xml</a>              28-Jun-2013 05:39   62K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W562_tei.xml">W562_tei.xml</a>              28-Jun-2013 05:39   61K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W563_tei.xml">W563_tei.xml</a>              28-Jun-2013 05:40  370K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W568_tei.xml">W568_tei.xml</a>              28-Jun-2013 05:40  107K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W569_tei.xml">W569_tei.xml</a>              28-Jun-2013 05:41  253K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W575_tei.xml">W575_tei.xml</a>              28-Jun-2013 05:41  149K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W577_tei.xml">W577_tei.xml</a>              28-Jun-2013 05:41  235K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W578_tei.xml">W578_tei.xml</a>              28-Jun-2013 05:41   32K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W579_tei.xml">W579_tei.xml</a>              28-Jun-2013 05:41   39K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W580_tei.xml">W580_tei.xml</a>              28-Jun-2013 05:42  130K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W581_tei.xml">W581_tei.xml</a>              28-Jun-2013 05:42   48K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W582_tei.xml">W582_tei.xml</a>              28-Jun-2013 05:42   47K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W583_tei.xml">W583_tei.xml</a>              28-Jun-2013 05:42  100K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W584_tei.xml">W584_tei.xml</a>              28-Jun-2013 05:42  134K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W585_tei.xml">W585_tei.xml</a>              28-Jun-2013 05:42  170K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W586_tei.xml">W586_tei.xml</a>              28-Jun-2013 05:43  192K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W588_tei.xml">W588_tei.xml</a>              28-Jun-2013 05:43  234K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W589_tei.xml">W589_tei.xml</a>              28-Jun-2013 05:43   59K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W590_tei.xml">W590_tei.xml</a>              28-Jun-2013 05:44  129K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W591_tei.xml">W591_tei.xml</a>              28-Jun-2013 05:44   87K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W592_tei.xml">W592_tei.xml</a>              28-Jun-2013 05:44  218K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W593_tei.xml">W593_tei.xml</a>              28-Jun-2013 05:44  210K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W595_tei.xml">W595_tei.xml</a>              28-Jun-2013 05:45  497K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W596_tei.xml">W596_tei.xml</a>              28-Jun-2013 05:46   64K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W597_tei.xml">W597_tei.xml</a>              28-Jun-2013 05:46  152K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W598_tei.xml">W598_tei.xml</a>              28-Jun-2013 05:46  175K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W599_tei.xml">W599_tei.xml</a>              28-Jun-2013 05:46  184K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W600_tei.xml">W600_tei.xml</a>              28-Jun-2013 05:46   57K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W601_tei.xml">W601_tei.xml</a>              28-Jun-2013 05:47  297K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W602_tei.xml">W602_tei.xml</a>              28-Jun-2013 05:48  401K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W603_tei.xml">W603_tei.xml</a>              28-Jun-2013 05:48  210K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W604_tei.xml">W604_tei.xml</a>              28-Jun-2013 05:49  262K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W605_tei.xml">W605_tei.xml</a>              28-Jun-2013 05:49  337K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W606_tei.xml">W606_tei.xml</a>              28-Jun-2013 05:50  285K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W607_tei.xml">W607_tei.xml</a>              28-Jun-2013 05:51  248K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W608_tei.xml">W608_tei.xml</a>              28-Jun-2013 05:51  278K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W609_tei.xml">W609_tei.xml</a>              28-Jun-2013 05:52  315K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W610_tei.xml">W610_tei.xml</a>              28-Jun-2013 05:52  286K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W611_tei.xml">W611_tei.xml</a>              28-Jun-2013 05:53  227K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W612_tei.xml">W612_tei.xml</a>              28-Jun-2013 05:53  291K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W613_tei.xml">W613_tei.xml</a>              28-Jun-2013 05:53   81K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W615_tei.xml">W615_tei.xml</a>              28-Jun-2013 05:53   41K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W616_tei.xml">W616_tei.xml</a>              28-Jun-2013 05:54  333K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W617_tei.xml">W617_tei.xml</a>              28-Jun-2013 05:55  306K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W618_tei.xml">W618_tei.xml</a>              28-Jun-2013 05:55  219K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W619_tei.xml">W619_tei.xml</a>              28-Jun-2013 05:55  132K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W620_tei.xml">W620_tei.xml</a>              28-Jun-2013 05:56  157K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W621_tei.xml">W621_tei.xml</a>              28-Jun-2013 05:56  104K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W622_tei.xml">W622_tei.xml</a>              28-Jun-2013 05:56  217K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W623_tei.xml">W623_tei.xml</a>              28-Jun-2013 05:57  222K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W624_tei.xml">W624_tei.xml</a>              28-Jun-2013 05:57  233K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W625_tei.xml">W625_tei.xml</a>              28-Jun-2013 05:57  252K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W626_tei.xml">W626_tei.xml</a>              28-Jun-2013 05:58  253K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W627_tei.xml">W627_tei.xml</a>              28-Jun-2013 05:58  194K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W628_tei.xml">W628_tei.xml</a>              28-Jun-2013 05:58  136K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W629_tei.xml">W629_tei.xml</a>              28-Jun-2013 05:59  162K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W630_tei.xml">W630_tei.xml</a>              28-Jun-2013 05:59  155K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W632_tei.xml">W632_tei.xml</a>              28-Jun-2013 05:59  148K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W633_tei.xml">W633_tei.xml</a>              28-Jun-2013 06:00  175K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W634_tei.xml">W634_tei.xml</a>              28-Jun-2013 06:00  162K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W635_tei.xml">W635_tei.xml</a>              28-Jun-2013 06:00  209K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W636_tei.xml">W636_tei.xml</a>              28-Jun-2013 06:01  197K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W637_tei.xml">W637_tei.xml</a>              28-Jun-2013 06:01  156K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W638_tei.xml">W638_tei.xml</a>              28-Jun-2013 06:01  152K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W639_tei.xml">W639_tei.xml</a>              28-Jun-2013 06:02  216K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W640_tei.xml">W640_tei.xml</a>              28-Jun-2013 06:02  239K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W641_tei.xml">W641_tei.xml</a>              28-Jun-2013 06:02   79K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W642_tei.xml">W642_tei.xml</a>              28-Jun-2013 06:03  107K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W643_tei.xml">W643_tei.xml</a>              28-Jun-2013 06:03   72K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W644_tei.xml">W644_tei.xml</a>              28-Jun-2013 06:03  144K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W645_tei.xml">W645_tei.xml</a>              28-Jun-2013 06:03  170K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W646_tei.xml">W646_tei.xml</a>              28-Jun-2013 06:03  163K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W647_tei.xml">W647_tei.xml</a>              28-Jun-2013 06:04  153K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W648_tei.xml">W648_tei.xml</a>              28-Jun-2013 06:04  142K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W649_tei.xml">W649_tei.xml</a>              28-Jun-2013 06:04   53K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W650_tei.xml">W650_tei.xml</a>              28-Jun-2013 06:04  160K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W651_tei.xml">W651_tei.xml</a>              28-Jun-2013 06:04   36K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W652_tei.xml">W652_tei.xml</a>              28-Jun-2013 06:05  174K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W653_tei.xml">W653_tei.xml</a>              28-Jun-2013 06:05   49K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W654_tei.xml">W654_tei.xml</a>              28-Jun-2013 06:05   39K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W655_tei.xml">W655_tei.xml</a>              28-Jun-2013 06:05  116K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W656_tei.xml">W656_tei.xml</a>              28-Jun-2013 06:05   68K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W657_tei.xml">W657_tei.xml</a>              28-Jun-2013 06:05  267K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W658_tei.xml">W658_tei.xml</a>              28-Jun-2013 06:06  361K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W659_tei.xml">W659_tei.xml</a>              28-Jun-2013 06:07  301K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W660_tei.xml">W660_tei.xml</a>              28-Jun-2013 06:07   35K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W661_tei.xml">W661_tei.xml</a>              28-Jun-2013 06:07   97K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W662_tei.xml">W662_tei.xml</a>              28-Jun-2013 06:07  125K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W663_tei.xml">W663_tei.xml</a>              28-Jun-2013 06:07  218K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W664_tei.xml">W664_tei.xml</a>              28-Jun-2013 06:08  194K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W665_tei.xml">W665_tei.xml</a>              28-Jun-2013 06:08   57K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W666_tei.xml">W666_tei.xml</a>              28-Jun-2013 06:08  148K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W667_tei.xml">W667_tei.xml</a>              28-Jun-2013 06:09  328K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W669_tei.xml">W669_tei.xml</a>              28-Jun-2013 06:09   46K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W670_tei.xml">W670_tei.xml</a>              28-Jun-2013 06:09   68K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W671_tei.xml">W671_tei.xml</a>              28-Jun-2013 06:09   63K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W672_tei.xml">W672_tei.xml</a>              28-Jun-2013 06:09   38K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W673_tei.xml">W673_tei.xml</a>              28-Jun-2013 06:09   37K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W674_tei.xml">W674_tei.xml</a>              28-Jun-2013 06:09   26K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W675_tei.xml">W675_tei.xml</a>              28-Jun-2013 06:09   26K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W676_tei.xml">W676_tei.xml</a>              28-Jun-2013 06:09   31K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W677_tei.xml">W677_tei.xml</a>              28-Jun-2013 06:09   30K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W678_tei.xml">W678_tei.xml</a>              28-Jun-2013 06:09   24K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W679_tei.xml">W679_tei.xml</a>              28-Jun-2013 06:09   24K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W680_tei.xml">W680_tei.xml</a>              28-Jun-2013 06:09   22K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W681_tei.xml">W681_tei.xml</a>              28-Jun-2013 06:09   23K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W682_tei.xml">W682_tei.xml</a>              28-Jun-2013 06:09   22K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W683_tei.xml">W683_tei.xml</a>              28-Jun-2013 06:09   23K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W684_tei.xml">W684_tei.xml</a>              28-Jun-2013 06:09   26K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W685_tei.xml">W685_tei.xml</a>              28-Jun-2013 06:09   23K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W686_tei.xml">W686_tei.xml</a>              28-Jun-2013 06:09   25K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W687_tei.xml">W687_tei.xml</a>              28-Jun-2013 06:09   25K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W688_tei.xml">W688_tei.xml</a>              28-Jun-2013 06:09   23K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W689_tei.xml">W689_tei.xml</a>              28-Jun-2013 06:09   22K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W690_tei.xml">W690_tei.xml</a>              28-Jun-2013 06:09   24K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W691_tei.xml">W691_tei.xml</a>              28-Jun-2013 06:09   26K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W692_tei.xml">W692_tei.xml</a>              28-Jun-2013 06:09   24K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W693_tei.xml">W693_tei.xml</a>              28-Jun-2013 06:09   23K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W694_tei.xml">W694_tei.xml</a>              28-Jun-2013 06:09   21K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W695_tei.xml">W695_tei.xml</a>              28-Jun-2013 06:09   21K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W696_tei.xml">W696_tei.xml</a>              28-Jun-2013 06:09   22K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W697_tei.xml">W697_tei.xml</a>              28-Jun-2013 06:09   23K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W698_tei.xml">W698_tei.xml</a>              28-Jun-2013 06:09   23K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W699_tei.xml">W699_tei.xml</a>              28-Jun-2013 06:09   22K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W700_tei.xml">W700_tei.xml</a>              28-Jun-2013 06:09   22K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W701_tei.xml">W701_tei.xml</a>              28-Jun-2013 06:09   23K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W702_tei.xml">W702_tei.xml</a>              28-Jun-2013 06:09   24K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W703_tei.xml">W703_tei.xml</a>              28-Jun-2013 06:09   24K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W704_tei.xml">W704_tei.xml</a>              28-Jun-2013 06:09   23K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W705_tei.xml">W705_tei.xml</a>              28-Jun-2013 06:09   22K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W707_tei.xml">W707_tei.xml</a>              28-Jun-2013 06:09   23K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W708_tei.xml">W708_tei.xml</a>              28-Jun-2013 06:09   22K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W709_tei.xml">W709_tei.xml</a>              28-Jun-2013 06:09   22K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W710_tei.xml">W710_tei.xml</a>              28-Jun-2013 06:09   20K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W711_tei.xml">W711_tei.xml</a>              28-Jun-2013 06:09   23K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W712_tei.xml">W712_tei.xml</a>              28-Jun-2013 06:09   22K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W713_tei.xml">W713_tei.xml</a>              28-Jun-2013 06:09   23K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W714_tei.xml">W714_tei.xml</a>              28-Jun-2013 06:09   22K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W715_tei.xml">W715_tei.xml</a>              28-Jun-2013 06:09   22K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W739_tei.xml">W739_tei.xml</a>              28-Jun-2013 06:09   28K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W745_tei.xml">W745_tei.xml</a>              28-Jun-2013 06:10   21K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W746_tei.xml">W746_tei.xml</a>              28-Jun-2013 06:10   23K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W747_tei.xml">W747_tei.xml</a>              28-Jun-2013 06:10   23K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W748_tei.xml">W748_tei.xml</a>              28-Jun-2013 06:10   23K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W749_tei.xml">W749_tei.xml</a>              28-Jun-2013 06:10   23K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W750_tei.xml">W750_tei.xml</a>              28-Jun-2013 06:10   29K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W751_tei.xml">W751_tei.xml</a>              28-Jun-2013 06:10   38K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W756_tei.xml">W756_tei.xml</a>              28-Jun-2013 06:10   28K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W757_tei.xml">W757_tei.xml</a>              28-Jun-2013 06:10   28K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W764_tei.xml">W764_tei.xml</a>              28-Jun-2013 06:10  211K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W768_tei.xml">W768_tei.xml</a>              28-Jun-2013 06:10   67K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W771_tei.xml">W771_tei.xml</a>              28-Jun-2013 06:10   25K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W784_tei.xml">W784_tei.xml</a>              28-Jun-2013 06:11   89K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W793_tei.xml">W793_tei.xml</a>              28-Jun-2013 06:11  140K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W794_tei.xml">W794_tei.xml</a>              28-Jun-2013 06:11   22K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W805_tei.xml">W805_tei.xml</a>              28-Jun-2013 06:11  135K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W808_tei.xml">W808_tei.xml</a>              28-Jun-2013 06:12  134K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W812_tei.xml">W812_tei.xml</a>              28-Jun-2013 06:12   22K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W829_tei.xml">W829_tei.xml</a>              28-Jun-2013 06:12   56K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W835_tei.xml">W835_tei.xml</a>              28-Jun-2013 06:12  186K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W836_tei.xml">W836_tei.xml</a>              28-Jun-2013 06:13  195K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W838_tei.xml">W838_tei.xml</a>              28-Jun-2013 06:13   33K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W839_tei.xml">W839_tei.xml</a>              28-Jun-2013 06:13   26K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W840_tei.xml">W840_tei.xml</a>              28-Jun-2013 06:13   26K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W844_tei.xml">W844_tei.xml</a>              28-Jun-2013 06:13   70K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W850_tei.xml">W850_tei.xml</a>              28-Jun-2013 06:13  171K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W853I_tei.xml">W853I_tei.xml</a>             28-Jun-2013 06:14  351K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W853II_tei.xml">W853II_tei.xml</a>            28-Jun-2013 06:14  348K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W865_tei.xml">W865_tei.xml</a>              28-Jun-2013 06:14   22K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W873_tei.xml">W873_tei.xml</a>              28-Jun-2013 06:15   23K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W874_tei.xml">W874_tei.xml</a>              28-Jun-2013 06:15   25K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W876_tei.xml">W876_tei.xml</a>              28-Jun-2013 06:15   23K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W889_tei.xml">W889_tei.xml</a>              28-Jun-2013 06:15   22K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W903_tei.xml">W903_tei.xml</a>              28-Jun-2013 06:15   22K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W904_tei.xml">W904_tei.xml</a>              28-Jun-2013 06:15   22K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W912_tei.xml">W912_tei.xml</a>              28-Jun-2013 06:15   23K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W918_tei.xml">W918_tei.xml</a>              28-Jun-2013 06:15  157K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="3610_tei.xml">3610_tei.xml</a>              17-Jan-2014 15:53   40K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W5_tei.xml">W5_tei.xml</a>                17-Jan-2014 15:53  156K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W9_tei.xml">W9_tei.xml</a>                17-Jan-2014 15:54  341K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W10_tei.xml">W10_tei.xml</a>               17-Jan-2014 15:54  144K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W15_tei.xml">W15_tei.xml</a>               17-Jan-2014 15:54  249K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W16_tei.xml">W16_tei.xml</a>               17-Jan-2014 15:54   84K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W25_tei.xml">W25_tei.xml</a>               17-Jan-2014 15:55  210K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W29_tei.xml">W29_tei.xml</a>               17-Jan-2014 15:55   36K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W32_tei.xml">W32_tei.xml</a>               17-Jan-2014 15:55   32K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W34_tei.xml">W34_tei.xml</a>               17-Jan-2014 15:55  330K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W51_tei.xml">W51_tei.xml</a>               17-Jan-2014 20:28  494K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W70_tei.xml">W70_tei.xml</a>               17-Jan-2014 20:28   98K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W73_tei.xml">W73_tei.xml</a>               17-Jan-2014 20:28   98K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W79_tei.xml">W79_tei.xml</a>               17-Jan-2014 20:28  216K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W81_tei.xml">W81_tei.xml</a>               17-Jan-2014 20:29  129K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W111_tei.xml">W111_tei.xml</a>              17-Jan-2014 20:29  261K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W144_tei.xml">W144_tei.xml</a>              17-Jan-2014 20:30  154K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W149_tei.xml">W149_tei.xml</a>              17-Jan-2014 20:30   30K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W163_tei.xml">W163_tei.xml</a>              17-Jan-2014 20:30  221K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W167_tei.xml">W167_tei.xml</a>              17-Jan-2014 20:31  164K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W174_tei.xml">W174_tei.xml</a>              17-Jan-2014 20:32  294K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W175_tei.xml">W175_tei.xml</a>              17-Jan-2014 20:32  256K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W182_tei.xml">W182_tei.xml</a>              17-Jan-2014 20:32  146K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W192_tei.xml">W192_tei.xml</a>              17-Jan-2014 20:33  171K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W198_tei.xml">W198_tei.xml</a>              17-Jan-2014 20:33  216K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W371_tei.xml">W371_tei.xml</a>              17-Jan-2014 20:34   88K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W420_tei.xml">W420_tei.xml</a>              17-Jan-2014 20:34  313K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W421_tei.xml">W421_tei.xml</a>              17-Jan-2014 20:34   97K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W432_tei.xml">W432_tei.xml</a>              17-Jan-2014 20:34  114K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W437_tei.xml">W437_tei.xml</a>              17-Jan-2014 20:35  147K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W504_tei.xml">W504_tei.xml</a>              17-Jan-2014 20:35   47K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W513_tei.xml">W513_tei.xml</a>              17-Jan-2014 20:36  511K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W520_tei.xml">W520_tei.xml</a>              17-Jan-2014 20:36  184K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W521_tei.xml">W521_tei.xml</a>              17-Jan-2014 20:37  301K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W522_tei.xml">W522_tei.xml</a>              17-Jan-2014 20:37  287K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W523_tei.xml">W523_tei.xml</a>              17-Jan-2014 20:38  314K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W525_tei.xml">W525_tei.xml</a>              17-Jan-2014 20:39  337K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W528_tei.xml">W528_tei.xml</a>              17-Jan-2014 20:39  229K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W529_tei.xml">W529_tei.xml</a>              17-Jan-2014 20:39   32K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W530A_tei.xml">W530A_tei.xml</a>             17-Jan-2014 20:39   26K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W530B_tei.xml">W530B_tei.xml</a>             17-Jan-2014 20:39   28K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W530C_tei.xml">W530C_tei.xml</a>             17-Jan-2014 20:39   26K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W530D-E_tei.xml">W530D-E_tei.xml</a>           17-Jan-2014 20:39   27K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W530F-G_tei.xml">W530F-G_tei.xml</a>           17-Jan-2014 20:39   28K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W531_tei.xml">W531_tei.xml</a>              17-Jan-2014 20:40  235K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W532_tei.xml">W532_tei.xml</a>              17-Jan-2014 20:40   32K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W533_tei.xml">W533_tei.xml</a>              17-Jan-2014 20:40  350K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W534_tei.xml">W534_tei.xml</a>              17-Jan-2014 20:41  285K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W537_tei.xml">W537_tei.xml</a>              17-Jan-2014 20:41  246K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W538_tei.xml">W538_tei.xml</a>              17-Jan-2014 20:41  320K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W539_tei.xml">W539_tei.xml</a>              17-Jan-2014 20:42  435K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W540_tei.xml">W540_tei.xml</a>              17-Jan-2014 20:43  303K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W542_tei.xml">W542_tei.xml</a>              17-Jan-2014 20:43  290K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W543_tei.xml">W543_tei.xml</a>              17-Jan-2014 20:44  331K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W544_tei.xml">W544_tei.xml</a>              17-Jan-2014 20:44   35K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W545_tei.xml">W545_tei.xml</a>              17-Jan-2014 20:44  356K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W546_tei.xml">W546_tei.xml</a>              17-Jan-2014 20:45  277K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W547_tei.xml">W547_tei.xml</a>              17-Jan-2014 20:45  331K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W548_tei.xml">W548_tei.xml</a>              17-Jan-2014 20:45   47K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W668_tei.xml">W668_tei.xml</a>              17-Jan-2014 20:45  131K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W728_tei.xml">W728_tei.xml</a>              17-Jan-2014 20:45   28K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W731_tei.xml">W731_tei.xml</a>              17-Jan-2014 20:45   28K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W732_tei.xml">W732_tei.xml</a>              17-Jan-2014 20:45   30K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W733_tei.xml">W733_tei.xml</a>              17-Jan-2014 20:46  214K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W736_tei.xml">W736_tei.xml</a>              17-Jan-2014 20:46   72K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W740_tei.xml">W740_tei.xml</a>              17-Jan-2014 20:46  148K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W754_tei.xml">W754_tei.xml</a>              17-Jan-2014 20:46   30K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W769_tei.xml">W769_tei.xml</a>              17-Jan-2014 20:46   43K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W782_tei.xml">W782_tei.xml</a>              17-Jan-2014 20:46  254K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W786_tei.xml">W786_tei.xml</a>              17-Jan-2014 20:46   95K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W788_tei.xml">W788_tei.xml</a>              17-Jan-2014 20:46   33K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W796_tei.xml">W796_tei.xml</a>              17-Jan-2014 20:46   38K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W834_tei.xml">W834_tei.xml</a>              17-Jan-2014 20:47  208K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W842_tei.xml">W842_tei.xml</a>              17-Jan-2014 20:47   50K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W845_tei.xml">W845_tei.xml</a>              17-Jan-2014 20:47   35K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W847_tei.xml">W847_tei.xml</a>              17-Jan-2014 20:47  163K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W916_tei.xml">W916_tei.xml</a>              17-Jan-2014 20:47  154K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W917_tei.xml">W917_tei.xml</a>              17-Jan-2014 20:47  241K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W922_tei.xml">W922_tei.xml</a>              17-Jan-2014 20:48  209K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W743_tei.xml">W743_tei.xml</a>              13-May-2014 18:05  293K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W33_tei.xml">W33_tei.xml</a>               13-Jun-2014 14:08  285K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W524_tei.xml">W524_tei.xml</a>              13-Jun-2014 14:10  253K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W631_tei.xml">W631_tei.xml</a>              13-Jun-2014 14:10  182K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W85_tei.xml">W85_tei.xml</a>               10-Nov-2014 19:58  142K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W87_tei.xml">W87_tei.xml</a>               10-Nov-2014 19:58  130K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W567_tei.xml">W567_tei.xml</a>              10-Nov-2014 20:00  193K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W20_tei.xml">W20_tei.xml</a>               02-Dec-2014 21:35   89K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W22_tei.xml">W22_tei.xml</a>               02-Dec-2014 21:35   95K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W36_tei.xml">W36_tei.xml</a>               02-Dec-2014 21:36  170K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W39_tei.xml">W39_tei.xml</a>               02-Dec-2014 21:36  188K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W44_tei.xml">W44_tei.xml</a>               04-Dec-2014 15:42  224K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W45_tei.xml">W45_tei.xml</a>               04-Dec-2014 15:42  293K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W35_tei.xml">W35_tei.xml</a>               17-Dec-2014 01:00  192K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W83_tei.xml">W83_tei.xml</a>               17-Dec-2014 01:01  504K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W148_tei.xml">W148_tei.xml</a>              17-Dec-2014 01:02  357K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W541_tei.xml">W541_tei.xml</a>              18-Feb-2015 14:45  274K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W2_tei.xml">W2_tei.xml</a>                26-Feb-2015 21:16  139K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W37_tei.xml">W37_tei.xml</a>               26-Feb-2015 21:16  276K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W43_tei.xml">W43_tei.xml</a>               26-Feb-2015 21:16  251K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W47_tei.xml">W47_tei.xml</a>               26-Feb-2015 21:17  224K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W68_tei.xml">W68_tei.xml</a>               26-Feb-2015 21:17  135K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W82_tei.xml">W82_tei.xml</a>               26-Feb-2015 21:17  240K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W95_tei.xml">W95_tei.xml</a>               26-Feb-2015 21:17  188K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W110_tei.xml">W110_tei.xml</a>              26-Feb-2015 21:18  224K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W141_tei.xml">W141_tei.xml</a>              26-Feb-2015 21:18  136K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W270_tei.xml">W270_tei.xml</a>              26-Feb-2015 21:18  179K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W279_tei.xml">W279_tei.xml</a>              26-Feb-2015 21:19  213K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W314_tei.xml">W314_tei.xml</a>              26-Feb-2015 21:19  183K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="W315_tei.xml">W315_tei.xml</a>              26-Feb-2015 21:19  284K  
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="tei_walters_ms.rng">tei_walters_ms.rng</a>        26-Feb-2015 21:19  346K  
+<hr></pre>
+</div>
+<aside class="right contain">
+  <!-- ================ secondary content =================== -->			
+  <p class="small">
+    This Web site contains complete sets of high-resolution archival images of manuscripts from the collection of the Walters Art Museum, along with machine-readable TEI P5 descriptions and technical metadata, released for free under a <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.en">Creative Commons Attribution-ShareAlike 3.0 Unported</a> license for anyone who wants to use them. To use this Web site, see the ReadMe documents below.
+  </p>
+  <ul id="sidenav">
+    <li> <a class="nav" href="/03_ReadMe.html">Introduction</a> </li>
+    <li> <a class="nav" href="/04_TechnicalReadMe.html">Technical Help</a> </li>
+    <li> <a class="nav" href="/01_ACCESS_WALTERS_MANUSCRIPTS.html">Digitized Walters Manuscripts</a> </li>
+    <li> <a class="nav" href="/02_ACCESS_OTHER_BOOKS.html">Non-Walters Books</a> </li>
+  </ul>
+  <p class="small">
+All manuscript images and descriptions were created and are provided through Preservation and Access grants awarded to the Walters Art Museum by the National Endowment for the Humanities, 2008-2014. Additional funding has been provided by an anonymous donor. Any views, finding, conclusions, or recommendations expressed on this Web site do not necessarily represent those of the National Endowment for the Humanities.
+  </p>			
+</aside>
+
+</section>
+</div>
+
+
+
+</div>
+<div id="loading"></div>
+<div id="object_preview">
+  <div class="inner"></div>
+</div>
+</body>
+</html>
+
